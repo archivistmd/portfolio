@@ -3,15 +3,16 @@ body {
 }
 h1 {
   font-family: sans-serif;
-  text-align: center;
 }
 h2 {
   font-family: sans-serif;
+  text-align: center;
 }
 p {
   font-family: sans-serif;
 }
-ol {
+ul {
+  font-style: italic;
   font-size: 12px;
-  line-height: 22px;
+  line-height: 10px;
 }
