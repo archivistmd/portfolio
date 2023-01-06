@@ -1,5 +1,8 @@
 body {
-  background-color: rgba(245, 245, 245, 0.534);
+  background-color: grey;
+}
+.image {
+  width: 30%;
 }
 h1 {
   font-family: sans-serif;
@@ -18,4 +21,6 @@ ul {
 }
 .sidebar {
   float: right;
+  width: 30%;
+  background-color: lightgray;
 }
