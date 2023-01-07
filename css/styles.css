@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  background-color: #E4E4E4;
+}
+.logo {
+  position: top;
+}
+.image {
+  width: 15%
+}
+.sidebar {
+  float: left;
+  width: 30%;
+  margin: 12px;
+  border: 2px #BABABA;
+  padding: 4px;
+  background-color: #C5C5C5;
+}
+.centered {
+  font-size: 16px;
+  padding: 4px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 80%;
+  box-sizing: border-box;
+}
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+}
+h2 {
+  font-family: sans-serif;
+  text-align: center;
+}
+ul {
+  font-size: 14px;
+  line-height: 20px;
+  margin: 12px;
+  box-sizing: content-box;
+}
