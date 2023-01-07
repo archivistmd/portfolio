@@ -15,7 +15,7 @@ Serving as my Epicodus portfolio landing page, this simple website includes some
 
 ## Setup/Installation Requirements
 
-The portfolio can be viewed at the coresponding GitHub Pages.
+The portfolio can be viewed at the coresponding (GitHub Pages)[https://archivistmd.github.io/portfolio/].
 
 Or you may clone the project to your desktop by using the following command:
 
