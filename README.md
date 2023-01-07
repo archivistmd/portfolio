@@ -28,6 +28,8 @@ After cloning, the directions are as followed:
 
 ## Known Bugs
 
+Working on aligment for the skill list.
+
 ## License
 [MIT](https://opensource.org/licenses/MIT)
 Copyright (c) 2023 Mesha Devan
