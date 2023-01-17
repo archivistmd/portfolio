@@ -28,7 +28,7 @@ After cloning, the directions are as followed:
 
 ## Known Bugs
 
-Working on aligment for the skill list.
+N/A.
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
