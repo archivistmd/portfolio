@@ -10,10 +10,11 @@ body {
 }
 .sidebar {
   float: left;
-  width: 20%;
-  margin: 12px;
+  width: 18%;
+  margin: auto;
   border: 2px #BABABA;
-  padding: 8px;
+  padding: 4px;
+  box-sizing: border-box;
   background-color: #C5C5C5;
 }
 .centered {
@@ -21,12 +22,10 @@ body {
   padding: 8px;
   margin: auto;
   margin-top: 20px;
+  margin-right: 20px;
   margin-bottom: 20px;
   width: 80%;
   box-sizing: border-box;
-}
-.centered-ol {
-  margin-left: 20px;
 }
 h1 {
   font-family: sans-serif;
@@ -34,11 +33,23 @@ h1 {
 }
 h2 {
   font-family: sans-serif;
-  text-align: center;
 }
 ul {
   font-size: 14px;
-  line-height: 20px;
-  margin: 12px;
+  line-height: 15px;
+  margin: 15px;
   box-sizing: content-box;
+}
+.about {
+  font-weight: bolder;
+  color: #36454f;
+}
+.project {
+  font-style: italic;
+  font-size: 24px;
+  margin: auto;
+}
+ol {
+  text-align: left;
+  margin-left: auto;
 }
